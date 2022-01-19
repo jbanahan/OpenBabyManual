@@ -1,4 +1,4 @@
-# OpenBabyBook
+# Open Baby Manual
 An open source baby book. They say that babies don't come with manuals, but they are available and this one is open!
 
 ## Listen to your doctor
