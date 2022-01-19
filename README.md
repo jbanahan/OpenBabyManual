@@ -1,4 +1,4 @@
-# OpenBabyBook
+# Open Baby Manual
 An open source baby book which contains the help I've learned along the way
 
 ## Listen to your doctor
